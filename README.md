@@ -9,6 +9,7 @@ link to each file, so finished graphics are pushed here and scheduled from
 - `stories/` Instagram stories (1080x1920)
 - `reels/` Reels (MP4)
 - `photos/` photos of Jessica
+- `email/` the referral banner for the email signature. Sent emails load it from here, so don't move or delete it
 
 The source files and captions live in the private `reclaimcowebsite` repo,
 under `instagram/`. Don't host social images on reclaimco.com.au.
